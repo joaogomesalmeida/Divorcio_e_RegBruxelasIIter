@@ -1,0 +1,9 @@
+#+title: Divórcio e o Regulamento Bruxelas II /ter/
+#+author: João Gomes de Almeida
+#+options: toc:nil
+#+cite_export: csl chicago.csl
+
+* Introdução
+* Competência internacional
+* Reconhecimento
+* Conclusões

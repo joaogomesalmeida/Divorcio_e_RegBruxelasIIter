@@ -4,14 +4,25 @@
 #+cite_export: csl chicago.csl
 
 * I. Introdução
-A generalidade das normas do Regulamento Bruxelas II /ter/ serão aplicáveis a partir do dia 1 de agosto de 2022[fn:1]. Este Regulamento reformula e substitui o Regulamento Bruxelas II /bis/[fn:2], porventura o regulamento mais relevante em matéria de Direito Internacional Privado da família. Neste artigo, analisa-se o Regulamento Bruxelas II /ter/ procurando determinar quais as novidades introduzidas em matéria matrimonial, tomando por referência o divórcio transnacional. Atendendo a que, em matéria matrimonial, estamos perante um regulamento dupla, que estabelece regras de competência internacional e de reconhecimento, analisar-se-ão cada uma destas em secção autónoma (II. e III.), para depois se apresentarem as conclusões (IV.)
+A generalidade das normas do Regulamento Bruxelas II /ter/ serão aplicáveis a partir do dia 1 de agosto de 2022[fn:1]. Este Regulamento reformula e substitui o Regulamento Bruxelas II /bis/[fn:2], porventura o regulamento mais relevante em matéria de Direito Internacional Privado da família. Neste artigo, analisa-se o Regulamento Bruxelas II /ter/ procurando determinar quais as novidades introduzidas em matéria matrimonial, tomando por referência o divórcio transnacional. Inicia-se a análise pelo âmbito de aplicação (II.) do Regulamento Bruxelas II /ter/, prosseguindo depois, atendendo a que, em matéria matrimonial, estamos perante um regulamento dupla, pelas regras de competência internacional (III.) e de reconhecimento (IV.), apresentando no final as conclusões (V.)
 
 
-* II. Competência internacional
-* III. Reconhecimento
-* IV. Conclusões
+* II. Âmbito de aplicação
+/Em razão do espaço/, as normas do Regulamento Bruxelas II /ter/ só são aplicáveis quando a situação tenha um elemento de estraneidade[cite:Cf., por todos, @musseva2022, p. 20]. Este entendimento - que não tinha uma consagração clara no Regulamento Bruxelas II /bis/[cite:Sobre a questão neste Regulamento, cf. @almeida2017, pp. 71 e ss.] - pode encontrar-se hoje nos considerandos 2 a 4 do Regulamento Bruxelas II /ter/ e é o único conforme ao artigo 81.º, n.º 3, do Tratado sobre o Funcionamento da União Europeia (doravante TFUE), base habilitante do Regulamento Bruxelas II /ter/, no qual se estabelece que as medidas relativas à família devem ter "incidência transfronteiriça".
+
+Assinala-se, quanto às normas de reconhecimento em matéria matrimonial, que o elemento de estraneidade pode surgir /depois/ de proferida a decisão, exarado o ato autêntico ou celebrado o acordo. Veja-se o seguinte exemplo: A. e B., são franceses, com residência habitual em França, e casados entre si. É proferida decisão de divórcio por um tribunal francês, na sequência de ação instaurada em setembro de 2022. Posteriormente, B. muda a sua residência habitual para Portugal e, em setembro de 2026, pretende casar com C. O reconhecimento (automático) da decisão francesa de divórcio é regido pelo Regulamento Bruxelas II /ter/, pois, no momento do reconhecimento, a situação já possui um elemento de estraneidade.
+
+/Em razão do território/, não há novidades: tal como o Regulamento que o precedeu, o Regulamento Bruxelas II /ter/ é obrigatório e diretamente aplicável em todos os Estados-Membros, com exceção da Dinamarca[cite:Cf. @musseva2022 p. 19;@pinheiro2022 p.10] *incluir o meu artigo*.
+
+/Em razão do tempo/,
+
+
+* III. Competência internacional
+* IV. Reconhecimento
+* V. Conclusões
 
 * Footnotes
+
 [fn:2] Regulamento (CE) n.º 2201/2003 do Conselho, de 27 de Novembro de 2003, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e que revoga o Regulamento (CE) n.º 1347/2000, publicado no JO L 338, de 23 de dezembro de 2003.
 
 [fn:1] Regulamento (UE) 2019/1111 do Conselho, de 25 de junho de 2019, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e ao rapto internacional de crianças (reformulação), publicado no Jornal Oficial (JO) L 178, de 2 de julho de 2019.

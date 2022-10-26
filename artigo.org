@@ -32,6 +32,17 @@ Da perspetiva dos tribunais portugueses a questão pode parecer irrelevante, poi
 
 O Regulamento Bruxelas II /ter/ prevê, como previa o Regulamento Bruxelas II /bis/, sete critérios alternativos gerais (art. 3.º), um critério alternativo adicional para os casos de conversão da separação em divórcio (art. 5.º) e estabelece que os tribunais internacionalmente competentes nos termos dos artigos 3.º e 5.º são igualmente competentes para conhecer eventual pedido reconvencional em matéria matrimonial (art. 4.º). Os critérios são alternativos no sentido em que são de aplicação concorrente[cite:Cf. @musseva2022, pp.30-31;@oliveira2022, p. 36;e, em sede de Regulamento Bruxelas II /bis/, @almeida2017, pp. 95-97 e indicações bibliográficas aí indicadas].
 
+Os sete critérios alternativos gerais (art. 3.º) mantêm-se substancialmente inalterados, pois todas as alterações efetuadas são de cariz formal. Na alínea /a)/ substituem-se os travessões por subalíneas, relocaliza-se a substituição da nacionalidade pelo "domicílio", atualmente relevante apenas para a Irlanda, para as definições (art. 2.º, n.º 3)[fn:13] e ajusta-se a técnica legislativa destinada a assinalar a alternatividade dos critérios, passando-se a indicar a expressão "ou" apenas nas subalíneas v) e vi) da alínea /a)/ do artigo 3.º do Regulamento Bruxelas II /ter/.
+
+Da perspetiva da ordem jurídica portuguesa este sete critérios alternativos gerais atribuem competência internacional atendendo à residência habitual de um ou de ambos os cônjuges e a à nacionalidade comum dos cônjuges. Mais do que efetuar uma análise detalhada de cada um destes sete critérios, parece-nos relevante dar conta da jurisprudência do TJ sobre estes critérios em sede do Regulamento Bruxelas II /bis/ e que se mantém plenamente aplicável no contexto do novo Regulamento Bruxelas II /ter/.
+
+Em matéria de nacionalidade comum dos cônjuges, assinala-se o Acórdão /Hadadi/[fn:14]. O litígio em causa opunha um casal em que ambos tinham nacionalidade húngara e francesa. O tribunal de reenvio colocou ao TJ três questões prejudiciais em que, em síntese, perguntava como se deveria aplicar a norma atributiva de competência internacional assente na nacionalidade comum dos cônjuges quando estes tinham mais de uma nacionalidade comum: dando prevalência à nacionalidade do foro (questão 1), dando prevalência à nacionalidade mais efetiva (questão 2) ou admitindo que qualquer uma das nacionalidade comuns atribuía competência internacional aos tribunais desse Estado-Membro (questão 3).
+
+O TJ respondeu negativamente às duas primeiras questões, perfilhando o entendimento descrito na terceira questão. A prevalência da nacionalidade do foro foi recusada por conduzir a interpretações diferentes do mesmo preceito do Regulamento Bruxelas II /bis/, o que é contrário à obrigação de interpretação autónoma e uniforme das disposições do Regulamento[fn:15]. O critério da nacionalidade mais efetiva foi afastado tendo em conta os objetivos e a construção das normas de competência internacional do Regulamento Bruxelas II /bis/. A adoção deste critério teria como efeito restringir o número de foros quando o Regulamento Bruxelas II /bis/ prossegue o /favor divortii/ (ou, de forma mais ampla, o favorecimento da dissolução do matrimónio) através da pluralidade de foros[fn:16]. É igualmente um critério de caráter pouco preciso[fn:17], quando o Regulamento privilegia um elemento de conexão unívoco e de fácil aplicação e a sua determinação faz-se, muitas vezes com recurso à residência habitual o que levaria a sobreposição dos critérios de competência internacional e até, em certa medida, à prevalência da residência habitual sobre a nacionalidade nos casos de plurinacionalidades comuns[fn:18].
+
+No Acórdão /Hadadi/ o TJ estabeleceu o princípio de tratamento paritário das nacionalidades da União Europeia e concedeu ao cônjuge requerente o direito de optar por qualquer uma das nacionalidades comuns da União Europeia dos cônjuges[fn:19].
+
+Os restantes (seis) critérios alternativos gerais assentam na residência habitual de um ou de ambos os cônjuges. O conceito de residência habitual não se encontra definido no Regulamento Bruxelas II /ter/ e, apesar de existir vasta jurisprudência sobre a residência habitual das crianças, só mais recentemente, em dois acórdãos, o TJ se pronunciou sobre o conceito de residência habitual dos cônjuges.
 
 ** B) Critério de competência residual
 ** C) Controlo da competência
@@ -42,6 +53,19 @@ O Regulamento Bruxelas II /ter/ prevê, como previa o Regulamento Bruxelas II /b
 * V. Conclusões
 
 * Footnotes
+[fn:19] Pensa-se que do Acórdão /Hadadi/ se pode inferir a solução para dois casos próximos: tendo os cônjuges duas ou mais nacionalidades comuns, sendo apenas uma de um Estado-Membro da União Europeia, o cônjuge requerente pode intentar a ação matrimonial nos tribunais desse Estado-Membro, mesmo que essa não seja a nacionalidade mais efetiva; se apenas um dos cônjuges for plurinacional e a nacionalidade comum não for a sua nacionalidade efetiva (v.g. A., nacional português e italiano, é casado com B., nacional italiana e residem habitualmente em Portugal), ainda assim os cônjuges têm uma nacionalidade comum (no exemplo, a nacionalidade italiana) e qualquer um deles pode intentar a ação matrimonial juntos dos tribunais italianos.
+
+[fn:18] Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, EU:C:2009:474, considerandos n.º 54.
+
+[fn:17] Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, EU:C:2009:474, considerandos n.ºs 51 e 55.
+
+[fn:16] Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, EU:C:2009:474, considerandos n.ºs 49, 52 e 53.
+
+[fn:15] Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, EU:C:2009:474, considerandos n.ºs 37 a 41.
+
+[fn:14] Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, EU:C:2009:474.
+
+[fn:13] O que permitiu suprimir o n.º 2 do artigo 3.º do Regulamento Bruxelas II /bis/ e a parte final do 6.º travessão da alínea /a)/ do mesmo preceito, atual artigo 3.º, alínea /a)/, subalínea vi), do Regulamento Bruxelas II /ter/.
 
 [fn:12] Cf. artigo 2.º, n.º 3, e 6.º, n.º 2, do Regulamento Bruxelas II /ter/.
 

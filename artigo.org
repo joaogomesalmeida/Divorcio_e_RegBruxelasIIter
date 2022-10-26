@@ -42,7 +42,36 @@ O TJ respondeu negativamente às duas primeiras questões, perfilhando o entendi
 
 No Acórdão /Hadadi/ o TJ estabeleceu o princípio de tratamento paritário das nacionalidades da União Europeia e concedeu ao cônjuge requerente o direito de optar por qualquer uma das nacionalidades comuns da União Europeia dos cônjuges[fn:19].
 
-Os restantes (seis) critérios alternativos gerais assentam na residência habitual de um ou de ambos os cônjuges. O conceito de residência habitual não se encontra definido no Regulamento Bruxelas II /ter/ e, apesar de existir vasta jurisprudência sobre a residência habitual das crianças, só mais recentemente, em dois acórdãos, o TJ se pronunciou sobre o conceito de residência habitual dos cônjuges.
+Os restantes (seis) critérios alternativos gerais assentam na residência habitual de um ou de ambos os cônjuges. O conceito de residência habitual não se encontra definido no Regulamento Bruxelas II /ter/ e, apesar de existir vasta jurisprudência sobre a residência habitual das crianças, só recentemente, em dois acórdãos, o TJ se pronunciou sobre o conceito de residência habitual dos cônjuges.
+
+No Acórdão /IB contra FA/[fn:21], IB, nacional francês, casou com FA, nacional irlandesa, em 1994 e fixaram domicílio conjugal na Irlanda, em 1999. IB alegou, no processo judicial de divórcio por si intentado, que exerce desde 2010 a sua atividade profissional em França e de forma estável e permanente desde maio de 2017.
+
+O órgão jurisdicional de reenvio considerou que IB tinha duas residências: uma familiar, na Irlanda, e uma profissional, na França e colocou a seguinte questão prejudicial:
+
+#+begin_quote
+«Quando […] resulte das circunstâncias de facto que um dos cônjuges divide a sua vida entre dois Estados-Membros, pode considerar-se, na aceção do artigo 3.º do Regulamento n.º 2201/2003 e para efeitos da sua aplicação, que esse cônjuge tem a sua residência habitual em dois Estados-Membros, de modo que, se os requisitos estabelecidos nesse artigo estiverem preenchidos relativamente a dois Estados-Membros, os tribunais desses dois Estados são igualmente competentes para decidir sobre o divórcio?»[fn:20]
+#+end_quote
+
+O TJ, interpretando autonomamente o conceito no contexto do Regulamento Bruxelas II /bis/, conclui que o cônjuge não pode ter, num dado momento, mais de uma residência habitual. Fundamenta a sua conclusão, essencialmente em três ordens de razão: (i) o conceito não é empregue na sua forma plural no Regulamento Bruxelas II /bis/[fn:22]; (ii) a ideia de centro de interesses não aponta no sentido de o conceito residência habitual poder suscitar problemas de conteúdo múltiplo, isto é, de permitir que, em simultâneo, uma pessoa tenha mais do que uma residência habitual[fn:23]; (iii) e os objetivos prosseguidos pelo Regulamento Bruxelas II /bis/ também apontam no mesmo sentido, pois admitir a possibilidade de um cônjuge ter mais de uma residência habitual em simultâneo acarretaria o risco de a competência internacional ser determinada, em última análise, não pelo critério da «residência habitual», mas por um critério baseado na simples residência de um ou de outro dos cônjuges, o que infringiria o Regulamento Bruxelas II /bis/[fn:24]. Risco que seria acrescido por outros regulamentos atribuírem competências noutras matérias, como obrigações alimentares ou regimes matrimoniais, ao tribunal internacionalmente competente para julgar a ação de divórcio, separação judicial ou anulação do casamento[fn:25].
+
+De seguida, o TJ efetua algumas considerações sobre o conceito autónomo de residência habitual. Seguindo a sua anterior jurisprudência, assinala que o conceito reflete essencialmente uma questão de facto, devendo os tribunais atender a todas as circunstâncias de facto específicas do caso concreto[fn:26]. Assinala que as circunstâncias específicas que permitem determinar a residência habitual de crianças não são idênticas em todos os aspectos às que permitem determinar a residência habitual dos cônjuges[fn:27].
+
+O TJ recorda que a interpretação do conceito autónomo de residência habitual se caracteriza, em princípio, por dois elementos: por um lado, a vontade do interessado de fixar o centro habitual dos seus interesses num determinado lugar, e, por outro, uma presença com um grau suficiente de estabilidade no território do Estado-Membro em causa[fn:28]. A esta luz, e para que seja possível recorrer aos critérios de competência previstos no artigo 3.º, n.º 1, al. /a)/, quinto e sexto travessões, do Regulamento Bruxelas II /bis/, o cônjuge requerente deve ter transferido a sua residência habitual para o território de um Estado-Membro diferente do da anterior residência habitual comum e, portanto, por um lado, ter manifestado a vontade de estabelecer o centro habitual dos seus interesses nesse outro Estado-Membro, e, por outro, ter demonstrado que a sua presença no território deste Estado-Membro revela um grau suficiente de estabilidade[fn:29]. No caso concreto, o TJ entendeu indicar que os elementos constantes dos autos parecem, /a priori/, permitir demontrar a transferência de residência, o carácter estável da mesma e, pelo menos, a integração do cônjuge requerente no ambiente social e cultural do Estado-Membro da nova residência[fn:30]; não deixou, porém, de assinalar que compete ao órgão jurisdicional de reenvio a concreta tarefa de verificar se houve ou não, no caso concreto, mudança da residência habitual do cônjuge requerente[fn:31].
+
+No Acórdão /MPA/[fn:32], MPA, nacional espanhola, casou em agosto de 2010, na embaixada espanhola da Guiné-Bissau, com LCDNMT, nacional português. Têm dois filhos, nascidos em Espanha, nos anos de 2007 e 2012, ambos com dupla nacionalidade portuguesa e espanhola. Os cônjuges residiram na Guiné-Bissau entre agosto de 2010 e fevereiro de 2015. Depois disso passaram a residir no Togo. Separaram-se de facto em 2018, continuam ambos a morar no Togo. Ambos os cônjuges trabalham para a Comissão Europeia e estão afetos à delegação da União no Togo. Têm a categoria profissional de agentes contratuais[fn:33]. MPA apresentou, junto dos tribunais espanhois, um pedido de divórcio, acompanhado de pedidos relativos à determinação do regime e das modalidades de exercício da guarda e das responsabilidade parentais em relação aos filhos menores do casal, à pensão de alimentos para estes últimos, bem como ao uso da casa de morada de família situada no Togo[fn:34].
+
+Após decisão do tribunal espanhol de primeira instância, que se declarou incompetente por nenhum dos cônjuges ter residência habitual na Espanha, e interposição de recurso da decisão por parte da MPA, o órgão jurisdicional de reenvio decidiu suspender a instância e colocar várias questões prejudiciais ao TJ tendo as duas que transcrevemos particular relevância para o nosso estudo:
+
+#+begin_quote
+   1) Como deve ser interpretado o conceito de “residência habitual” do artigo 3.º do Regulamento n.º 2201/2003 e do artigo 3.º do Regulamento n.º 4/2009 dos nacionais de um Estado-Membro que residem num Estado terceiro devido às funções que lhes são confiadas enquanto agentes contratuais da [União] e que, no Estado terceiro, têm a qualidade de agentes diplomáticos da [União], quando a sua permanência, nesse Estado, esteja ligada ao exercício das funções que exercem para a União?
+
+(...)
+
+   4) No caso de se demonstrar que a residência habitual dos progenitores e dos menores não se situa num Estado-Membro, tendo em conta que, em conformidade com o Regulamento n.º 2201/2003, não existe nenhum outro Estado-Membro competente para conhecer dos pedidos, o facto de o requerido ser nacional de um Estado-Membro obsta à aplicação da cláusula residual prevista nos artigos 7.° e 14.° do Regulamento n.º 2201/2003?[fn:35]
+#+end_quote
+
+Por agora focar-nos-emos apenas na resposta do TJ à primeira questão. A resposta à outra questão será abordada /infra/ aquando da análise do critério de competência residual.
+
 
 ** B) Critério de competência residual
 ** C) Controlo da competência
@@ -53,6 +82,38 @@ Os restantes (seis) critérios alternativos gerais assentam na residência habit
 * V. Conclusões
 
 * Footnotes
+[fn:35]Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619, considerando 37.
+
+[fn:34] Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619, considerando 30.
+
+[fn:33] Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619, considerandos 27 a 29.
+
+[fn:32] Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619.
+
+[fn:31] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando 61.
+
+[fn:30] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerandos 59 e 60.
+
+[fn:29] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando 58.
+
+[fn:28] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando 57.
+
+[fn:27] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerandos 53 e 54.
+
+[fn:26] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando 52.
+
+[fn:25] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando 48.
+
+[fn:24] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando 46.
+
+[fn:23] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerandos 41 e 43.
+
+[fn:22] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando 40.
+
+[fn:21] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955.
+
+[fn:20] Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, EU:C:2021:955, considerando 23.
+
 [fn:19] Pensa-se que do Acórdão /Hadadi/ se pode inferir a solução para dois casos próximos: tendo os cônjuges duas ou mais nacionalidades comuns, sendo apenas uma de um Estado-Membro da União Europeia, o cônjuge requerente pode intentar a ação matrimonial nos tribunais desse Estado-Membro, mesmo que essa não seja a nacionalidade mais efetiva; se apenas um dos cônjuges for plurinacional e a nacionalidade comum não for a sua nacionalidade efetiva (v.g. A., nacional português e italiano, é casado com B., nacional italiana e residem habitualmente em Portugal), ainda assim os cônjuges têm uma nacionalidade comum (no exemplo, a nacionalidade italiana) e qualquer um deles pode intentar a ação matrimonial juntos dos tribunais italianos.
 
 [fn:18] Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, EU:C:2009:474, considerandos n.º 54.

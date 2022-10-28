@@ -63,14 +63,20 @@ No Acórdão /MPA/[fn:32], MPA, nacional espanhola, casou em agosto de 2010, na 
 Após decisão do tribunal espanhol de primeira instância, que se declarou incompetente por nenhum dos cônjuges ter residência habitual na Espanha, e interposição de recurso da decisão por parte da MPA, o órgão jurisdicional de reenvio decidiu suspender a instância e colocar várias questões prejudiciais ao TJ tendo as duas que transcrevemos particular relevância para o nosso estudo:
 
 #+begin_quote
-   1) Como deve ser interpretado o conceito de “residência habitual” do artigo 3.º do Regulamento n.º 2201/2003 e do artigo 3.º do Regulamento n.º 4/2009 dos nacionais de um Estado-Membro que residem num Estado terceiro devido às funções que lhes são confiadas enquanto agentes contratuais da [União] e que, no Estado terceiro, têm a qualidade de agentes diplomáticos da [União], quando a sua permanência, nesse Estado, esteja ligada ao exercício das funções que exercem para a União?
+(1) Como deve ser interpretado o conceito de “residência habitual” do artigo 3.º do Regulamento n.º 2201/2003 e do artigo 3.º do Regulamento n.º 4/2009 dos nacionais de um Estado-Membro que residem num Estado terceiro devido às funções que lhes são confiadas enquanto agentes contratuais da [União] e que, no Estado terceiro, têm a qualidade de agentes diplomáticos da [União], quando a sua permanência, nesse Estado, esteja ligada ao exercício das funções que exercem para a União?
 
 (...)
 
-   4) No caso de se demonstrar que a residência habitual dos progenitores e dos menores não se situa num Estado-Membro, tendo em conta que, em conformidade com o Regulamento n.º 2201/2003, não existe nenhum outro Estado-Membro competente para conhecer dos pedidos, o facto de o requerido ser nacional de um Estado-Membro obsta à aplicação da cláusula residual prevista nos artigos 7.° e 14.° do Regulamento n.º 2201/2003?[fn:35]
+(4) No caso de se demonstrar que a residência habitual dos progenitores e dos menores não se situa num Estado-Membro, tendo em conta que, em conformidade com o Regulamento n.º 2201/2003, não existe nenhum outro Estado-Membro competente para conhecer dos pedidos, o facto de o requerido ser nacional de um Estado-Membro obsta à aplicação da cláusula residual prevista nos artigos 7.° e 14.° do Regulamento n.º 2201/2003?[fn:35]
 #+end_quote
 
 Por agora focar-nos-emos apenas na resposta do TJ à primeira questão. A resposta à outra questão será abordada /infra/ aquando da análise do critério de competência residual.
+
+Em suma, pergunta-se se a qualidade de agentes contratuais da União Europeia dos cônjuges, afetos a uma delegação desta junto de um Estado terceiro (Togo) e relativamente aos quais se alega que gozam do estatuto diplomático nesse Estado, é suscetível de constituir um elemento determinante para apurar a residência habitual dos mesmos, nos termos do Regulamento Bruxelas II /bis/[fn:36].
+
+O TJ recordou que, segundo o seu Acórdão /IB/, o conceito de residência habitual se caracteriza, em princípio, por dois elementos, a saber, por um lado, a vontade do interessado de fixar o centro habitual dos seus interesses num determinado lugar e, por outro, uma presença com um grau suficiente de estabilidade no território do Estado‑Membro em causa[fn:37].
+
+
 
 
 ** B) Critério de competência residual
@@ -82,7 +88,11 @@ Por agora focar-nos-emos apenas na resposta do TJ à primeira questão. A respos
 * V. Conclusões
 
 * Footnotes
-[fn:35]Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619, considerando 37.
+[fn:37]Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619, considerando 44.
+
+[fn:36] Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619, considerando 40.
+
+[fn:35] Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619, considerando 37.
 
 [fn:34] Acórdão de 1 de agosto de 2022, /MPA/, C-501/20, EU:C:2022:619, considerando 30.
 
